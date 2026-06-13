@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 group-title="AAA",FIFA now
+https://601.formaturamaxi.com.br/tsn.m3u8
 
 #EXTINF:-1 group-title="AAA",FIFA World Cup 2026 🇧🇷[coming]
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
