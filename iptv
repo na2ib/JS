@@ -1,6 +1,9 @@
 #EXTM3U
 
 #EXTINF:-1 group-title="General",win sports+
+http://84.17.50.102/fox/index.m3u8
+
+#EXTINF:-1 group-title="General",win sports+
 http://m3u.tvcluboficial.com/m/m/1042.m3u8
 
 #EXTINF:-1 group-title="General",win sport
