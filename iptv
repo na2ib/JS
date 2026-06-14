@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="General",FOX
+http://84.17.50.102/fox/index.m3u8
+
 #EXTINF:-1 group-title="General",TyC Sports ARG
 https://1nyaler.streamhostingcdn.top/stream/84/index.m3u8
 
