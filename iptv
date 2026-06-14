@@ -1,58 +1,58 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="General",FOX
-http://84.17.50.102/fox/index.m3u8
-
-#EXTINF:-1 group-title="General",TyC Sports ARG
-https://1nyaler.streamhostingcdn.top/stream/84/index.m3u8
-
 #EXTINF:-1 group-title="General",win sports+
 http://m3u.tvcluboficial.com/m/m/1042.m3u8
 
 #EXTINF:-1 group-title="General",win sport
 http://m3u.tvcluboficial.com/m/m/1039.m3u8
 
-#EXTINF:-1 group-title="Radios",CLARO SPORTS
-http://162.19.255.233:8080/play/UNbAl57p9hXZClOu56FCTUSaL5q1VtS-E1wCfb1nvO4/m3u8
-
-#EXTINF:-1 group-title="General",TNT Sports ARG
-https://1nyaler.streamhostingcdn.top/stream/30/index.m3u8
+#EXTINF:-1 group-title="General",DAZN 5
+http://znty.dyndns.org:5010/hls/eleven5.m3u8
 
 #EXTINF:-1 group-title="General",DAZN 2
 http://znty.dyndns.org:5010/hls/eleven2.m3u8
 
-#EXTINF:-1 group-title="General",DAZN 4
-http://znty.dyndns.org:5010/hls/eleven4.m3u8
+#EXTINF:-1 group-title="General",DAZN 3
+http://znty.dyndns.org:5010/hls/eleven3.m3u8
 
-#EXTINF:-1 group-title="General",DAZN 5
-http://znty.dyndns.org:5010/hls/eleven5.m3u8
+#EXTINF:-1 group-title="Radios",CLARO SPORTS
+http://162.19.255.233:8080/play/UNbAl57p9hXZClOu56FCTUSaL5q1VtS-E1wCfb1nvO4/m3u8
 
 #EXTINF:-1 group-title="General",МАТЧ! ФУТБOЛ 2HD 🇷🇺
 http://cdntv.online/low/9mlxywika2/56.m3u8
 
-#EXTINF:-1 group-title="General",DAZN 3
-http://znty.dyndns.org:5010/hls/eleven3.m3u8
+#EXTINF:-1 group-title="General",DAZN 4
+http://znty.dyndns.org:5010/hls/eleven4.m3u8
+
+#EXTINF:-1 group-title="General",Dazn 1 🇵🇹
+http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2531/index.m3u8
+
+#EXTINF:-1 group-title="General",Матч! 🇷🇺
+http://cdntv.online/low/9mlxywika2/48.m3u8
+
+#EXTINF:-1 group-title="General",TyC Sports ARG
+https://1nyaler.streamhostingcdn.top/stream/84/index.m3u8
 
 #EXTINF:-1 group-title="Radios",МАТЧ! ФУТБOЛ 2HD 🇷🇺
 http://193.25.8.59:8000/fut2
 
+#EXTINF:-1 group-title="General",Dazn 1 🇵🇹
+http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/19158/index.m3u8
+
 #EXTINF:-1 group-title="General",DAZN 1
 http://znty.dyndns.org:5010/hls/eleven1.m3u8
 
-#EXTINF:-1 group-title="General",Dazn 1 🇵🇹
-http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2531/index.m3u8
+#EXTINF:-1 group-title="General",Bein Sport 3 🇫🇷
+http://145.239.5.177:80/559/index.m3u8
+
+#EXTINF:-1 group-title="General",Dazn 5 🇵🇹
+http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2535/index.m3u8
 
 #EXTINF:-1 group-title="General",IDMANTV 🇹🇷
 https://str2.yodacdn.net/idman_300_to_small/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="General",Матч! 🇷🇺
-http://cdntv.online/low/9mlxywika2/48.m3u8
-
-#EXTINF:-1 group-title="General",Матч! 🇷🇺
 http://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a_hd/17_89756005/1080/e6bef86de8a133cd7b27deb040758a00/4796141934.m3u8
-
-#EXTINF:-1 group-title="General",Dazn 1 🇵🇹
-http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/19158/index.m3u8
 
 #EXTINF:-1 group-title="General",Dazn 3 🇵🇹
 http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/7062/index.m3u8
@@ -60,53 +60,26 @@ http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/7062/index.m3u8
 #EXTINF:-1 group-title="Radios",ESPN 2 🇦🇷
 http://181.205.130.194:4000/play/a07i
 
-#EXTINF:-1 group-title="General",Dazn 5 🇵🇹
-http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2535/index.m3u8
-
-#EXTINF:-1 group-title="General",Bein Sport 3 🇫🇷
-http://145.239.5.177:80/559/index.m3u8
-
-#EXTINF:-1 group-title="General",CANAL + Sport 🇫🇷
-http://151.80.18.177:86/Canal+_sport_HD/index.m3u8
+#EXTINF:-1 group-title="General",Setenta Sport 2 🇷🇺
+http://cdntv.online/low/9mlxywika2/1022.m3u8
 
 #EXTINF:-1 group-title="General",Dazn 2 🇵🇹
 http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2532/index.m3u8
 
-#EXTINF:-1 group-title="General",Setenta Sport 2 🇷🇺
-http://cdntv.online/low/9mlxywika2/1022.m3u8
-
-#EXTINF:-1 group-title="General",Setenta Sport 1 🇷🇺
-http://cdntv.online/low/9mlxywika2/1021.m3u8
-
-#EXTINF:-1 group-title="General",МАТЧ! ФУТБOЛ 1HD 🇷🇺
-http://cdntv.online/low/9mlxywika2/55.m3u8
+#EXTINF:-1 group-title="General",CANAL + Sport 🇫🇷
+http://151.80.18.177:86/Canal+_sport_HD/index.m3u8
 
 #EXTINF:-1 group-title="General",Матч! Футбол 3 HD 🇷🇺
 http://185.57.68.33:8091/110/playlist.m3u8
 
-#EXTINF:-1 group-title="General",OTT CLUB 🇷🇺
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/6554/index.m3u8
-
 #EXTINF:-1 group-title="General",Футбол 3 (SD) 🇷🇺
 http://185.57.68.33:80/110/index.m3u8
-
-#EXTINF:-1 group-title="General",Dazn 4 🇵🇹
-http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2534/index.m3u8
 
 #EXTINF:-1 group-title="General",МАТЧ! ФУТБOЛ 3HD 🇷🇺
 http://cdntv.online/low/9mlxywika2/57.m3u8
 
-#EXTINF:-1 group-title="Radios",BEIN 3 🇫🇷
-http://145.239.5.177/559/mpegts
-
-#EXTINF:-1 group-title="Radios",Super Sport 1 🇦🇱
-http://93.93.113.95:25461/TV-Berati/XtreamCodes/494
-
-#EXTINF:-1 group-title="Radios",Super Sport 2 🇦🇱
-http://93.93.113.95:25461/TV-Berati/XtreamCodes/495
-
-#EXTINF:-1 group-title="General",SPORT 1 HD 🇨🇿
-http://88.212.15.19/live/test_sport1_25p/playlist.m3u8
+#EXTINF:-1 group-title="General",Dazn 4 🇵🇹
+http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2534/index.m3u8
 
 #EXTINF:-1 group-title="General",SPORT 2 HD 🇨🇿
 http://88.212.15.19/live/test_sport_2/playlist.m3u8
@@ -114,8 +87,32 @@ http://88.212.15.19/live/test_sport_2/playlist.m3u8
 #EXTINF:-1 group-title="General",Setanta Sport 🇺🇦
 http://217.174.225.146/hls/ch004_720/index.m3u8
 
+#EXTINF:-1 group-title="Radios",BEIN 3 🇫🇷
+http://145.239.5.177/559/mpegts
+
+#EXTINF:-1 group-title="General",Setenta Sport 1 🇷🇺
+http://cdntv.online/low/9mlxywika2/1021.m3u8
+
+#EXTINF:-1 group-title="General",МАТЧ! ФУТБOЛ 1HD 🇷🇺
+http://cdntv.online/low/9mlxywika2/55.m3u8
+
+#EXTINF:-1 group-title="General",OTT CLUB 🇷🇺
+http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/6554/index.m3u8
+
+#EXTINF:-1 group-title="Radios",Super Sport 1 🇦🇱
+http://93.93.113.95:25461/TV-Berati/XtreamCodes/494
+
+#EXTINF:-1 group-title="Radios",Super Sport 2 🇦🇱
+http://93.93.113.95:25461/TV-Berati/XtreamCodes/495
+
 #EXTINF:-1 group-title="General",CT SPORT HD 🇨🇿
 http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8
+
+#EXTINF:-1 group-title="General",REAL MADRID TV 🇪🇸
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
+
+#EXTINF:-1 group-title="General",BEIN SPORT EXTRA Ñ 🇪🇸
+https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 
 #EXTINF:-1 group-title="General",ARENA SPORT 1 🇨🇿
 http://88.212.15.19/live/test_arenasport/playlist.m3u8
@@ -123,44 +120,26 @@ http://88.212.15.19/live/test_arenasport/playlist.m3u8
 #EXTINF:-1 group-title="General",ARENA SPORT 2 🇨🇿
 http://88.212.15.19/live/test_arenasport_dva/playlist.m3u8
 
-#EXTINF:-1 group-title="General",ZIGGO SPORT 2 HD 🇳🇱
-http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2561/index.m3u8
-
-#EXTINF:-1 group-title="General",REAL MADRID TV 🇪🇸
-https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
-
-#EXTINF:-1 group-title="Radios",МАТЧ! ФУТБOЛ 1HD 🇷🇺
-http://193.25.8.59:8000/fut
+#EXTINF:-1 group-title="General",ZIGGO SPORT LIVE 🇳🇱
+http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2560/index.m3u8
 
 #EXTINF:-1 group-title="Radios",M4 Sport 🇭🇺
 http://46.149.191.217:9010/play/a017
 
-#EXTINF:-1 group-title="Radios",MAX SPORT 3 🇧🇬
-http://77.46.130.252:99/maxsport3
-
 #EXTINF:-1 group-title="Radios",MAX SPORT 2 🇧🇬
 http://77.46.130.252:99/maxsport2
-
-#EXTINF:-1 group-title="General",BEIN SPORT EXTRA Ñ 🇪🇸
-https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
-
-#EXTINF:-1 group-title="General",ZIGGO SPORT LIVE 🇳🇱
-http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2560/index.m3u8
-
-#EXTINF:-1 group-title="General",2TV Sport 🇳🇴
-https://tv.cdn.xsg.ge/gpb-2tv/index.m3u8
 
 #EXTINF:-1 group-title="General",ZIGGO SPORT 3 HD 🇳🇱
 http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2559/index.m3u8
 
-#EXTINF:-1 group-title="Radios",МАТЧ! ФУТБOЛ 3HD 🇷🇺
-http://185.57.68.33/110/mpegts
+#EXTINF:-1 group-title="General",2TV Sport 🇳🇴
+https://tv.cdn.xsg.ge/gpb-2tv/index.m3u8
 
-#EXTINF:-1 group-title="General",5 SPORT 🇮🇱
-http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2558/index.m3u8
+#EXTINF:-1 group-title="General",ZIGGO SPORT 2 HD 🇳🇱
+http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2561/index.m3u8
 
-#EXTINF:-1 group-title="General",NOVA SPORT 1 HD 🇨🇿
-http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2555/index.m3u8
+#EXTINF:-1 group-title="Radios",МАТЧ! ФУТБOЛ 1HD 🇷🇺
+http://193.25.8.59:8000/fut
 
 #EXTINF:-1 group-title="General",Turkmenistan Sport 🇹🇲
 http://217.174.225.146/legacyhls/ch004_720/index.m3u8
@@ -174,29 +153,32 @@ https://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
 #EXTINF:-1 group-title="General",Sport5 🇮🇱
 https://rgelive.akamaized.net/hls/live/2043095/live3/playlist.m3u8
 
-#EXTINF:-1 group-title="General",MMN Sport 🇸🇦
-http://mmn.mypsx.net:1935/live/mmnhdsport/chunklist.m3u8
+#EXTINF:-1 group-title="General",NOVA SPORT 1 HD 🇨🇿
+http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2555/index.m3u8
 
-#EXTINF:-1 group-title="Radios",L`Equipe 🇫🇷
-https://jmp2.uk/stvp-FR200016Y5
-
-#EXTINF:-1 group-title="General",RS News
-https://video07.logicahost.com.br/rsnews01/rsnews01/playlist.m3u8
-
-#EXTINF:-1 group-title="Radios",ORF+ 🇦🇹
-http://212.186.45.34:9981/stream/channelid/906723447
+#EXTINF:-1 group-title="General",5 SPORT 🇮🇱
+http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2558/index.m3u8
 
 #EXTINF:-1 group-title="General",SKY SPORTS GT
 http://45.171.64.30:2000/play/a08m/index.m3u8
 
+#EXTINF:-1 group-title="General",MMN Sport 🇸🇦
+http://mmn.mypsx.net:1935/live/mmnhdsport/chunklist.m3u8
+
 #EXTINF:-1 group-title="General",RS Sports 4
 https://video07.logicahost.com.br/rssports04/rssports04/playlist.m3u8
+
+#EXTINF:-1 group-title="General",RS News
+https://video07.logicahost.com.br/rsnews01/rsnews01/playlist.m3u8
 
 #EXTINF:-1 group-title="General",RS Sports 2
 https://video07.logicahost.com.br/rssports02/rssports02/playlist.m3u8
 
-#EXTINF:-1 group-title="Radios",Sportdigital 🇩🇪
-https://jmp2.uk/stvp-ATAJ0500433A
+#EXTINF:-1 group-title="Radios",L`Equipe 🇫🇷
+https://jmp2.uk/stvp-FR200016Y5
+
+#EXTINF:-1 group-title="General",RS Sports 5
+https://video03.logicahost.com.br/rssports5/rssports5/playlist.m3u8
 
 #EXTINF:-1 group-title="General",RS Sports 1
 https://video07.logicahost.com.br/rssports01/rssports01/playlist.m3u8
@@ -204,56 +186,47 @@ https://video07.logicahost.com.br/rssports01/rssports01/playlist.m3u8
 #EXTINF:-1 group-title="General",RS Sports 3
 https://video07.logicahost.com.br/rssports03/rssports03/playlist.m3u8
 
-#EXTINF:-1 group-title="General",RS Sports 5
-https://video03.logicahost.com.br/rssports5/rssports5/playlist.m3u8
-
-#EXTINF:-1 group-title="General",RS PREMIERE
-https://video03.logicahost.com.br/rspremiere/rspremiere/playlist.m3u8
-
 #EXTINF:-1 group-title="General",TUDN
 http://45.171.64.30:2000/play/a08j/index.m3u8
 
 #EXTINF:-1 group-title="General",BeiN Sports Extra
 https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8
 
-#EXTINF:-1 group-title="General",RS TV
-https://video07.logicahost.com.br/rstv1/rstv1/playlist.m3u8
-
-#EXTINF:-1 group-title="General",RS News Web
-https://video01.logicahost.com.br/rsnewswebtv/rsnewswebtv/playlist.m3u8
-
-#EXTINF:-1 group-title="Radios",Win2
-http://190.60.37.118:4000/play/a0bw
-
-#EXTINF:-1 group-title="General",Azteca 7
-https://tv91.hostingnuclear.com:19360/xhunestv/xhunestv.m3u8
+#EXTINF:-1 group-title="General",RS PREMIERE
+https://video03.logicahost.com.br/rspremiere/rspremiere/playlist.m3u8
 
 #EXTINF:-1 group-title="General",✔️ Red Bull TV
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
-#EXTINF:-1 group-title="Radios",ESPN CO
-http://181.205.130.194:4000/play/a08n
-
 #EXTINF:-1 group-title="AAA",FIFA World Cup 2026 🇧🇷[coming]
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
 
-#EXTINF:-1 group-title="General",✔️ Garage TV
-https://stream1.sersat.com/hls/garagetv.m3u8
+#EXTINF:-1 group-title="General",Azteca 7
+https://tv91.hostingnuclear.com:19360/xhunestv/xhunestv.m3u8
+
+#EXTINF:-1 group-title="Radios",Win2
+http://190.60.37.118:4000/play/a0bw
 
 #EXTINF:-1 group-title="AAA",win sport
 http://m3u.tvcluboficial.com/m/m/1039.m3u8
 
-#EXTINF:-1 group-title="General",✔️ TyC Sports
-http://38.44.109.41:8003/play/a02l/index.m3u8
+#EXTINF:-1 group-title="Radios",ESPN CO
+http://181.205.130.194:4000/play/a08n
 
-#EXTINF:-1 group-title="AAA",TyC Sports ARG
-https://1nyaler.streamhostingcdn.top/stream/84/index.m3u8
+#EXTINF:-1 group-title="Radios",Sportdigital 🇩🇪
+https://jmp2.uk/stvp-ATAJ0500433A
+
+#EXTINF:-1 group-title="General",RS TV
+https://video07.logicahost.com.br/rstv1/rstv1/playlist.m3u8
 
 #EXTINF:-1 group-title="AAA",win sports+
 http://m3u.tvcluboficial.com/m/m/1042.m3u8
 
-#EXTINF:-1 group-title="AAA",TNT Sports ARG
-https://1nyaler.streamhostingcdn.top/stream/30/index.m3u8
+#EXTINF:-1 group-title="General",RS News Web
+https://video01.logicahost.com.br/rsnewswebtv/rsnewswebtv/playlist.m3u8
+
+#EXTINF:-1 group-title="General",✔️ Garage TV
+https://stream1.sersat.com/hls/garagetv.m3u8
 
 #EXTINF:-1 group-title="AAA",МАТЧ! ФУТБOЛ 2HD 🇷🇺
 http://cdntv.online/low/9mlxywika2/56.m3u8
@@ -261,20 +234,26 @@ http://cdntv.online/low/9mlxywika2/56.m3u8
 #EXTINF:-1 group-title="AAA",DAZN 3
 http://znty.dyndns.org:5010/hls/eleven3.m3u8
 
+#EXTINF:-1 group-title="AAA",Матч! 🇷🇺
+http://cdntv.online/low/9mlxywika2/48.m3u8
+
 #EXTINF:-1 group-title="AAA",DAZN 4
 http://znty.dyndns.org:5010/hls/eleven4.m3u8
 
-#EXTINF:-1 group-title="AAA",Матч! 🇷🇺
-http://cdntv.online/low/9mlxywika2/48.m3u8
+#EXTINF:-1 group-title="AAA",TyC Sports ARG
+https://1nyaler.streamhostingcdn.top/stream/84/index.m3u8
+
+#EXTINF:-1 group-title="AAA",DAZN 2
+http://znty.dyndns.org:5010/hls/eleven2.m3u8
 
 #EXTINF:-1 group-title="Radios",МАТЧ! ФУТБOЛ 2HD 🇷🇺
 http://193.25.8.59:8000/fut2
 
+#EXTINF:-1 group-title="AAA",TNT Sports ARG
+https://1nyaler.streamhostingcdn.top/stream/30/index.m3u8
+
 #EXTINF:-1 group-title="AAA",DAZN 1
 http://znty.dyndns.org:5010/hls/eleven1.m3u8
-
-#EXTINF:-1 group-title="AAA",DAZN 2
-http://znty.dyndns.org:5010/hls/eleven2.m3u8
 
 #EXTINF:-1 group-title="AAA",OTT CLUB 🇷🇺
 http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/6554/index.m3u8
@@ -285,26 +264,14 @@ https://str2.yodacdn.net/idman_300_to_small/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Radios",ESPN 2 🇦🇷
 http://181.205.130.194:4000/play/a07i
 
-#EXTINF:-1 group-title="AAA",Матч! 🇷🇺
-http://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a_hd/17_89756005/1080/e6bef86de8a133cd7b27deb040758a00/4796141934.m3u8
-
-#EXTINF:-1 group-title="AAA",Dazn 5 🇵🇹
-http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2535/index.m3u8
-
-#EXTINF:-1 group-title="AAA",Setenta Sport 1 🇷🇺
-http://cdntv.online/low/9mlxywika2/1021.m3u8
-
 #EXTINF:-1 group-title="AAA",Setenta Sport 2 🇷🇺
 http://cdntv.online/low/9mlxywika2/1022.m3u8
 
-#EXTINF:-1 group-title="AAA",DAZN 5
-http://znty.dyndns.org:5010/hls/eleven5.m3u8
+#EXTINF:-1 group-title="AAA",Матч! 🇷🇺
+http://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a_hd/17_89756005/1080/e6bef86de8a133cd7b27deb040758a00/4796141934.m3u8
 
 #EXTINF:-1 group-title="AAA",Dazn 1 🇵🇹
 http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2531/index.m3u8
-
-#EXTINF:-1 group-title="AAA",Dazn 1 🇵🇹
-http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/19158/index.m3u8
 
 #EXTINF:-1 group-title="AAA",Bein Sport 3 🇫🇷
 http://145.239.5.177:80/559/index.m3u8
@@ -312,8 +279,20 @@ http://145.239.5.177:80/559/index.m3u8
 #EXTINF:-1 group-title="Radios",Super Sport 1 🇦🇱
 http://93.93.113.95:25461/TV-Berati/XtreamCodes/494
 
-#EXTINF:-1 group-title="AAA",CANAL + Sport 🇫🇷
-http://151.80.18.177:86/Canal+_sport_HD/index.m3u8
+#EXTINF:-1 group-title="AAA",Setenta Sport 1 🇷🇺
+http://cdntv.online/low/9mlxywika2/1021.m3u8
+
+#EXTINF:-1 group-title="AAA",Dazn 1 🇵🇹
+http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/19158/index.m3u8
+
+#EXTINF:-1 group-title="AAA",DAZN 5
+http://znty.dyndns.org:5010/hls/eleven5.m3u8
+
+#EXTINF:-1 group-title="AAA",Dazn 5 🇵🇹
+http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2535/index.m3u8
+
+#EXTINF:-1 group-title="Radios",Super Sport 2 🇦🇱
+http://93.93.113.95:25461/TV-Berati/XtreamCodes/495
 
 #EXTINF:-1 group-title="AAA",Матч! Футбол 3 HD 🇷🇺
 http://185.57.68.33:8091/110/playlist.m3u8
@@ -321,20 +300,17 @@ http://185.57.68.33:8091/110/playlist.m3u8
 #EXTINF:-1 group-title="AAA",Футбол 3 (SD) 🇷🇺
 http://185.57.68.33:80/110/index.m3u8
 
-#EXTINF:-1 group-title="AAA",МАТЧ! ФУТБOЛ 1HD 🇷🇺
-http://cdntv.online/low/9mlxywika2/55.m3u8
-
-#EXTINF:-1 group-title="AAA",МАТЧ! ФУТБOЛ 3HD 🇷🇺
-http://cdntv.online/low/9mlxywika2/57.m3u8
-
-#EXTINF:-1 group-title="Radios",Super Sport 2 🇦🇱
-http://93.93.113.95:25461/TV-Berati/XtreamCodes/495
-
 #EXTINF:-1 group-title="AAA",CT SPORT HD 🇨🇿
 http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8
 
 #EXTINF:-1 group-title="AAA",SPORT 1 HD 🇨🇿
 http://88.212.15.19/live/test_sport1_25p/playlist.m3u8
+
+#EXTINF:-1 group-title="AAA",МАТЧ! ФУТБOЛ 1HD 🇷🇺
+http://cdntv.online/low/9mlxywika2/55.m3u8
+
+#EXTINF:-1 group-title="AAA",МАТЧ! ФУТБOЛ 3HD 🇷🇺
+http://cdntv.online/low/9mlxywika2/57.m3u8
 
 #EXTINF:-1 group-title="AAA",SPORT 2 HD 🇨🇿
 http://88.212.15.19/live/test_sport_2/playlist.m3u8
@@ -342,17 +318,20 @@ http://88.212.15.19/live/test_sport_2/playlist.m3u8
 #EXTINF:-1 group-title="AAA",Dazn 4 🇵🇹
 http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2534/index.m3u8
 
-#EXTINF:-1 group-title="AAA",Dazn 3 🇵🇹
-http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/7062/index.m3u8
-
-#EXTINF:-1 group-title="AAA",ARENA SPORT 2 🇨🇿
-http://88.212.15.19/live/test_arenasport_dva/playlist.m3u8
+#EXTINF:-1 group-title="AAA",CANAL + Sport 🇫🇷
+http://151.80.18.177:86/Canal+_sport_HD/index.m3u8
 
 #EXTINF:-1 group-title="AAA",REAL MADRID TV 🇪🇸
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
 
 #EXTINF:-1 group-title="AAA",BEIN SPORT EXTRA Ñ 🇪🇸
 https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
+
+#EXTINF:-1 group-title="AAA",Dazn 3 🇵🇹
+http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/7062/index.m3u8
+
+#EXTINF:-1 group-title="AAA",ARENA SPORT 2 🇨🇿
+http://88.212.15.19/live/test_arenasport_dva/playlist.m3u8
 
 #EXTINF:-1 group-title="AAA",ARENA SPORT 1 🇨🇿
 http://88.212.15.19/live/test_arenasport/playlist.m3u8
@@ -369,14 +348,8 @@ http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2561/index.m3u8
 #EXTINF:-1 group-title="Radios",МАТЧ! ФУТБOЛ 1HD 🇷🇺
 http://193.25.8.59:8000/fut
 
-#EXTINF:-1 group-title="Radios",RTSH Sport 🇦🇱
-http://217.73.139.200:5443/play/a01d
-
 #EXTINF:-1 group-title="AAA",2TV Sport 🇳🇴
 https://tv.cdn.xsg.ge/gpb-2tv/index.m3u8
-
-#EXTINF:-1 group-title="AAA",Setanta Sport 🇺🇦
-http://217.174.225.146/hls/ch004_720/index.m3u8
 
 #EXTINF:-1 group-title="AAA",5 SPORT 🇮🇱
 http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2558/index.m3u8
@@ -387,62 +360,44 @@ http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2559/index.m3u8
 #EXTINF:-1 group-title="AAA",SPORT ITALIA 🇮🇹
 https://amg01370-italiansportcom-sportitalia-rakuten-3hmdb.amagi.tv/amRdirect/ads_pod_type=playerpage_midroll&ads_env=prod&ads_ppid=&ads_rtvid=271861&ads_streaming_id=4f185419-74f6-4564-8ea9-4cdc60746e2f&ads_amagi_channel=781&ads_device_type=web&ads_device_model=&ads_device_year=&ads_player_width=&ads_rtv_content_language=ita&ads_market=it&ads_rtv_content_id=3741&ads_device_make=&ads_user_type=visitor&ads_content_classification=6&ads_gdpr_consent=&ads_device_lmt=1&ads_player_height=&uid=1gnmqg5gu-qsvc-bfo-gaq3-3dgjgexshpe/hls/amagi_hls_data_rakutenAA-sportitalia-rakuten/CDN/1920x1080_4540800/chunklist.m3u8
 
-#EXTINF:-1 group-title="Radios",BEIN 3 🇫🇷
-http://145.239.5.177/559/mpegts
-
-#EXTINF:-1 group-title="AAA",NOVA SPORT 1 HD 🇨🇿
-http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2555/index.m3u8
-
 #EXTINF:-1 group-title="AAA",Sport5 🇮🇱
 https://rgelive.akamaized.net/hls/live/2043095/live3/playlist.m3u8
-
-#EXTINF:-1 group-title="AAA",Turkmenistan Sport 🇹🇲
-http://217.174.225.146/legacyhls/ch004_720/index.m3u8
 
 #EXTINF:-1 group-title="Radios",M4 Sport 🇭🇺
 http://46.149.191.217:9010/play/a017
 
+#EXTINF:-1 group-title="AAA",Setanta Sport 🇺🇦
+http://217.174.225.146/hls/ch004_720/index.m3u8
+
+#EXTINF:-1 group-title="AAA",Turkmenistan Sport 🇹🇲
+http://217.174.225.146/legacyhls/ch004_720/index.m3u8
+
 #EXTINF:-1 group-title="AAA",Turkmenistan Sport 🇹🇲
 https://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
-
-#EXTINF:-1 group-title="Radios",Golf Channel
-http://45.167.1.136:8000/play/a05s
-
-#EXTINF:-1 group-title="AAA",TUDN
-http://45.171.64.30:2000/play/a08j/index.m3u8
-
-#EXTINF:-1 group-title="AAA",RS Sports 4
-https://video07.logicahost.com.br/rssports04/rssports04/playlist.m3u8
-
-#EXTINF:-1 group-title="AAA",MMN Sport 🇸🇦
-http://mmn.mypsx.net:1935/live/mmnhdsport/chunklist.m3u8
-
-#EXTINF:-1 group-title="Radios",L`Equipe 🇫🇷
-https://jmp2.uk/stvp-FR200016Y5
-
-#EXTINF:-1 group-title="AAA",RS News
-https://video07.logicahost.com.br/rsnews01/rsnews01/playlist.m3u8
 
 #EXTINF:-1 group-title="AAA",BeiN Sports Extra
 https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8
 
-#EXTINF:-1 group-title="AAA",RS Sports 2
-https://video07.logicahost.com.br/rssports02/rssports02/playlist.m3u8
-
-#EXTINF:-1 group-title="AAA",RS Sports 5
-https://video03.logicahost.com.br/rssports5/rssports5/playlist.m3u8
+#EXTINF:-1 group-title="AAA",TUDN
+http://45.171.64.30:2000/play/a08j/index.m3u8
 
 #EXTINF:-1 group-title="AAA",✔️ Red Bull TV
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
-#EXTINF:-1 group-title="AAA",RS Sports 3
-https://video07.logicahost.com.br/rssports03/rssports03/playlist.m3u8
+#EXTINF:-1 group-title="AAA",MMN Sport 🇸🇦
+http://mmn.mypsx.net:1935/live/mmnhdsport/chunklist.m3u8
 
-#EXTINF:-1 group-title="AAA",RS Sports 1
-https://video07.logicahost.com.br/rssports01/rssports01/playlist.m3u8
+#EXTINF:-1 group-title="Radios",Golf Channel
+http://45.167.1.136:8000/play/a05s
 
-#EXTINF:-1 group-title="AAA",Azteca 7
-https://tv91.hostingnuclear.com:19360/xhunestv/xhunestv.m3u8
+#EXTINF:-1 group-title="AAA",RS Sports 4
+https://video07.logicahost.com.br/rssports04/rssports04/playlist.m3u8
+
+#EXTINF:-1 group-title="AAA",RS Sports 5
+https://video03.logicahost.com.br/rssports5/rssports5/playlist.m3u8
+
+#EXTINF:-1 group-title="AAA",RS News
+https://video07.logicahost.com.br/rsnews01/rsnews01/playlist.m3u8
 
 #EXTINF:-1 group-title="Bangladeshi",G Series Drama
 https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8
@@ -453,20 +408,26 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/1703-audio_113332_eng=113200-vid
 #EXTINF:-1 group-title="Bangladeshi",Deepto TV
 https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
 
+#EXTINF:-1 group-title="AAA",RS Sports 2
+https://video07.logicahost.com.br/rssports02/rssports02/playlist.m3u8
+
+#EXTINF:-1 group-title="Radios",L`Equipe 🇫🇷
+https://jmp2.uk/stvp-FR200016Y5
+
+#EXTINF:-1 group-title="AAA",Azteca 7
+https://tv91.hostingnuclear.com:19360/xhunestv/xhunestv.m3u8
+
 #EXTINF:-1 group-title="Bangladeshi",Independent TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/1704-audio_113342_eng=113200-video=1692000.m3u8
-
-#EXTINF:-1 group-title="Radios",Win2
-http://190.60.37.118:4000/play/a0bw
 
 #EXTINF:-1 group-title="Bangladeshi",Dipto TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/1711-audio_113412_eng=113200-video=1692000.m3u8
 
-#EXTINF:-1 group-title="AAA",RS TV
-https://video07.logicahost.com.br/rstv1/rstv1/playlist.m3u8
-
 #EXTINF:-1 group-title="Bangladeshi",Jumuna TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/1701-audio_113312_eng=113200-video=1692000.m3u8
+
+#EXTINF:-1 group-title="Bangladeshi",BTV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/1709-audio_113392_eng=113200-video=1692000.m3u8
 
 #EXTINF:-1 group-title="Bangladeshi",Channel I (Alt)
 https://tvsen3.b-cdn.net/qUud8Nxs/index.m3u8
@@ -474,26 +435,17 @@ https://tvsen3.b-cdn.net/qUud8Nxs/index.m3u8
 #EXTINF:-1 group-title="Bangladeshi",Boishakhi TV
 https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
 
-#EXTINF:-1 group-title="Bangladeshi",BTV
-https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/1709-audio_113392_eng=113200-video=1692000.m3u8
+#EXTINF:-1 group-title="AAA",RS Sports 3
+https://video07.logicahost.com.br/rssports03/rssports03/playlist.m3u8
 
-#EXTINF:-1 group-title="Radios",Sportdigital 🇩🇪
-https://jmp2.uk/stvp-ATAJ0500433A
-
-#EXTINF:-1 group-title="AAA",RS News Web
-https://video01.logicahost.com.br/rsnewswebtv/rsnewswebtv/playlist.m3u8
-
-#EXTINF:-1 group-title="AAA",RS PREMIERE
-https://video03.logicahost.com.br/rspremiere/rspremiere/playlist.m3u8
-
-#EXTINF:-1 group-title="Radios",ESPN CO
-http://181.205.130.194:4000/play/a08n
+#EXTINF:-1 group-title="AAA",RS Sports 1
+https://video07.logicahost.com.br/rssports01/rssports01/playlist.m3u8
 
 #EXTINF:-1 group-title="Bangladeshi",Ekattor HD 71
 https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/1705-audio_113352_eng=113200-video=1692000.m3u8
 
-#EXTINF:-1 group-title="Radios",ORF+ 🇦🇹
-http://212.186.45.34:9981/stream/channelid/906723447
+#EXTINF:-1 group-title="Radios",Win2
+http://190.60.37.118:4000/play/a0bw
 
 #EXTINF:-1 group-title="Bangladeshi",NTV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/1716-audio_113462_eng=113200-video=1692000.m3u8
@@ -519,6 +471,27 @@ https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_2300.m3u8
 #EXTINF:-1 group-title="Indian Bangla",R Plus
 https://thelegitpro.in/pntv/rplusnews24x7/index.m3u8
 
+#EXTINF:-1 group-title="AAA",RS TV
+https://video07.logicahost.com.br/rstv1/rstv1/playlist.m3u8
+
+#EXTINF:-1 group-title="AAA",RS News Web
+https://video01.logicahost.com.br/rsnewswebtv/rsnewswebtv/playlist.m3u8
+
+#EXTINF:-1 group-title="AAA",RS PREMIERE
+https://video03.logicahost.com.br/rspremiere/rspremiere/playlist.m3u8
+
+#EXTINF:-1 group-title="Radios",ESPN CO
+http://181.205.130.194:4000/play/a08n
+
+#EXTINF:-1 group-title="Bangladeshi",Somoy TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/1702-audio_113322_eng=113200-video=1692000.m3u8
+
+#EXTINF:-1 group-title="Hindi & Movies",Hindi Movie Classic 24
+https://vods2.aynaott.com/hindimovies/index.m3u8
+
+#EXTINF:-1 group-title="Hindi & Movies",Awaaz India
+http://awaazindia.livebox.co.in/AwaazIndaTVhls/Live.m3u8
+
 #EXTINF:-1 group-title="Indian Bangla",Kolkata TV
 https://cdn.ottlive.co.in/kolkatatv/index.m3u8
 
@@ -531,23 +504,11 @@ https://nomawnoijl.gpcdn.net/akash/crazy_ex/playlist.m3u8
 #EXTINF:-1 group-title="Worldwide News",France News 24
 https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_5000.m3u8
 
-#EXTINF:-1 group-title="AAA",✔️ Garage TV
-https://stream1.sersat.com/hls/garagetv.m3u8
-
-#EXTINF:-1 group-title="Bangladeshi",Somoy TV
-https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/1702-audio_113322_eng=113200-video=1692000.m3u8
-
-#EXTINF:-1 group-title="Hindi & Movies",Hindi Movie Classic 24
-https://vods2.aynaott.com/hindimovies/index.m3u8
-
-#EXTINF:-1 group-title="Hindi & Movies",Awaaz India
-http://awaazindia.livebox.co.in/AwaazIndaTVhls/Live.m3u8
-
 #EXTINF:-1 group-title="Sports",Fighters
 https://nomawnoijl.gpcdn.net/akash/fighter/playlist.m3u8
 
-#EXTINF:-1 group-title="Sports",Sports Legends
-https://nomawnoijl.gpcdn.net/akash/sportslegends/playlist.m3u8
+#EXTINF:-1 group-title="AAA",✔️ Garage TV
+https://stream1.sersat.com/hls/garagetv.m3u8
 
 #EXTINF:-1 group-title="Worldwide News",Iran International(EN)
 https://dev-live.livetvstream.co.uk/LS-63503-4/chunklist_b1196000.m3u8
@@ -555,23 +516,35 @@ https://dev-live.livetvstream.co.uk/LS-63503-4/chunklist_b1196000.m3u8
 #EXTINF:-1 group-title="Sports",Thunder Er
 https://nomawnoijl.gpcdn.net/akash/thunder/playlist.m3u8
 
-#EXTINF:-1 group-title="Worldwide News",Times Of India
-https://live.sli.ke/live/npnhm84gz9/master.m3u8
-
 #EXTINF:-1 group-title="Sports",Sports Range
 https://nomawnoijl.gpcdn.net/akash/sportrange/playlist.m3u8
-
-#EXTINF:-1 group-title="Kids & Cartoons",Funny Junior HD
-https://nomawnoijl.gpcdn.net/akash/funnyjunior/playlist.m3u8
 
 #EXTINF:-1 group-title="Hindi & Movies",Originals
 https://nomawnoijl.gpcdn.net/akash/originals/playlist.m3u8
 
+#EXTINF:-1 group-title="Radios",Sportdigital 🇩🇪
+https://jmp2.uk/stvp-ATAJ0500433A
+
+#EXTINF:-1 group-title="Sports",Sports Legends
+https://nomawnoijl.gpcdn.net/akash/sportslegends/playlist.m3u8
+
+#EXTINF:-1 group-title="Worldwide News",Times Of India
+https://live.sli.ke/live/npnhm84gz9/master.m3u8
+
 #EXTINF:-1 group-title="Hindi & Movies",Screem
 https://nomawnoijl.gpcdn.net/akash/screem/playlist.m3u8
 
+#EXTINF:-1 group-title="Kids & Cartoons",Funny Junior HD
+https://nomawnoijl.gpcdn.net/akash/funnyjunior/playlist.m3u8
+
 #EXTINF:-1 group-title="Hindi & Movies",Intelligence
 https://nomawnoijl.gpcdn.net/akash/intelligence/playlist.m3u8
+
+#EXTINF:-1 group-title="Hindi & Movies",True Stories
+https://nomawnoijl.gpcdn.net/akash/truestories/playlist.m3u8
+
+#EXTINF:-1 group-title="Indian Bangla",Sangeet Bangla
+https://cdn-4.pishow.tv/live/1143/master.m3u8
 
 #EXTINF:-1 group-title="Worldwide News",T Global News (Canada)
 https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8
@@ -579,23 +552,14 @@ https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f
 #EXTINF:-1 group-title="Worldwide News",Global News (US)
 https://live.corusdigitaldev.com/groupb/live/3062d0e3-ed4c-4f47-8482-95648250f4b8/live.isml/.m3u8
 
-#EXTINF:-1 group-title="Indian Bangla",Sangeet Bangla
-https://cdn-4.pishow.tv/live/1143/master.m3u8
-
 #EXTINF:-1 group-title="Hindi & Movies",ABN
 https://mediaserver.abnvideos.com/streams/abnurdu.m3u8
 
 #EXTINF:-1 group-title="Worldwide News",Iran Press
 https://live.presstv.ir/hls/presstv_5_482/index.m3u8
 
-#EXTINF:-1 group-title="Worldwide News",AL EKHBARIA
-https://cdn-globecast.akamaized.net/live/eds/al_ekhbariya/hls_roku/index.m3u8
-
 #EXTINF:-1 group-title="Hindi & Movies",Hindi Movies
 https://live20.bozztv.com/giatvplayout7/giatv-209612/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1 group-title="Hindi & Movies",True Stories
-https://nomawnoijl.gpcdn.net/akash/truestories/playlist.m3u8
 
 #EXTINF:-1 group-title="Sports",A SPOR
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_480p.m3u8
@@ -603,11 +567,14 @@ https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_480p.m3u8
 #EXTINF:-1 group-title="Kids & Cartoons",Kids Stars
 https://nomawnoijl.gpcdn.net/akash/kidsstars/playlist.m3u8
 
-#EXTINF:-1 group-title="Hindi & Movies",Geo ENT
-https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Worldwide News",AL EKHBARIA
+https://cdn-globecast.akamaized.net/live/eds/al_ekhbariya/hls_roku/index.m3u8
 
 #EXTINF:-1 group-title="Miscellaneous",FM Radio
 https://stream.spicefmbd.com/stream.m3u8
+
+#EXTINF:-1 group-title="Hindi & Movies",Geo ENT
+https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8
 
 #EXTINF:-1 group-title="Kids & Cartoons",Rongeen TV
 https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
@@ -618,9 +585,6 @@ https://nomawnoijl.gpcdn.net/akash/luckyfamily/playlist.m3u8
 #EXTINF:-1 group-title="Infotainment",Luxel HD
 https://nomawnoijl.gpcdn.net/akash/luxell/playlist.m3u8
 
-#EXTINF:-1 group-title="Hindi & Movies",MK Six
-https://cdn-3.pishow.tv/live/1253/master.m3u8
-
 #EXTINF:-1 group-title="Hindi & Movies",Persiana Kore
 https://korhls.persiana.live/hls/stream.m3u8
 
@@ -630,26 +594,29 @@ https://nomawnoijl.gpcdn.net/akash/smarty/playlist.m3u8
 #EXTINF:-1 group-title="Hindi & Movies",ShemarooTV
 https://cdn-3.pishow.tv/live/230/master.m3u8
 
-#EXTINF:-1 group-title="Hindi & Movies",South Movies
-https://live20.bozztv.com/giatvplayout7/giatv-209593/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Miscellaneous",Party Universe
+https://nomawnoijl.gpcdn.net/akash/partyuniverse/playlist.m3u8
+
+#EXTINF:-1 group-title="Hindi & Movies",MK Six
+https://cdn-3.pishow.tv/live/1253/master.m3u8
 
 #EXTINF:-1 group-title="Religious",EWTN TV
 https://cdn3.wowza.com/1/ZVBYYXFLLzE0c3NC/Qk1FMURC/hls/qrpsvkxl/720/chunklist.m3u8
 
-#EXTINF:-1 group-title="Sports",Goal TV
-https://streams2.sofast.tv/sofastplayout/WiseM3U8_1/master.m3u8
-
 #EXTINF:-1 group-title="Kids & Cartoons",PBS Kids
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
-
-#EXTINF:-1 group-title="Miscellaneous",Party Universe
-https://nomawnoijl.gpcdn.net/akash/partyuniverse/playlist.m3u8
 
 #EXTINF:-1 group-title="Religious",Sunnah Tv
 http://m.live.net.sa:1935/live/sunnah/chunklist.m3u8?v=1
 
+#EXTINF:-1 group-title="Sports",Goal TV
+https://streams2.sofast.tv/sofastplayout/WiseM3U8_1/master.m3u8
+
 #EXTINF:-1 group-title="Kids & Cartoons",TVCARiB Kids & Teens
 https://cdn.mycloudstream.io/hls/live/broadcast/nro19k2h/index.m3u8
+
+#EXTINF:-1 group-title="Hindi & Movies",South Movies
+https://live20.bozztv.com/giatvplayout7/giatv-209593/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 group-title="Sports",WAZ TV
 https://tplay.live/originals/ilm-tv/index.m3u8
@@ -657,20 +624,11 @@ https://tplay.live/originals/ilm-tv/index.m3u8
 #EXTINF:-1 group-title="Kids & Cartoons",Doraemon
 https://live20.bozztv.com/giatvplayout7/giatv-209902/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 group-title="Religious",AL SUNNAH TV
-http://m.live.net.sa:1935/live/sunnah/playlist.m3u8
-
 #EXTINF:-1 group-title="Religious",QURAN
 http://m.live.net.sa:1935/live/quran/playlist.m3u8
 
 #EXTINF:-1 group-title="Kids & Cartoons",Motu Patlu
 https://live20.bozztv.com/giatvplayout7/giatv-209622/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1 group-title="Kids & Cartoons",BBC Cbeebies
-https://live20.bozztv.com/giatvplayout7/giatv-209622/index.m3u8
-
-#EXTINF:-1 group-title="Kids & Cartoons",Cartoon Network
-https://live20.bozztv.com/giatvplayout7/giatv-209624/index.m3u8
 
 #EXTINF:-1 group-title="Religious",Arihant TV
 https://aasthaott.akamaized.net/110923/smil:arihant.smil/chunklist_b1928000.m3u8
@@ -681,6 +639,12 @@ https://live.kwikmotion.com/smcquranlive/quranradiolive/playlist.m3u8
 #EXTINF:-1 group-title="Religious",Channel Win
 https://cdn-4.pishow.tv/live/229/master.m3u8
 
+#EXTINF:-1 group-title="Religious",AL SUNNAH TV
+http://m.live.net.sa:1935/live/sunnah/playlist.m3u8
+
+#EXTINF:-1 group-title="Kids & Cartoons",BBC Cbeebies
+https://live20.bozztv.com/giatvplayout7/giatv-209622/index.m3u8
+
 #EXTINF:-1 group-title="Miscellaneous",Colors Infinity SD
 https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
 
@@ -690,15 +654,18 @@ https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/Animal-Planet-15
 #EXTINF:-1 group-title="Infotainment",Weather SPY
 https://jukin-weatherspy-2-in.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="Sports",Bahrain Sports 1
-https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
-
 #EXTINF:-1 group-title="Infotainment",Adventure Earth
 https://autentic-adventure-earth-1-eu.rakuten.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="Infotainment",Wild TV
-https://dfhsahpa45kk2.cloudfront.net/scheduler/scheduleMaster/476.m3u8
+#EXTINF:-1 group-title="Sports",Bahrain Sports 1
+https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
 
 #EXTINF:-1 group-title="Infotainment",Amazon SAT
 https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
+
+#EXTINF:-1 group-title="Kids & Cartoons",Cartoon Network
+https://live20.bozztv.com/giatvplayout7/giatv-209624/index.m3u8
+
+#EXTINF:-1 group-title="Infotainment",Wild TV
+https://dfhsahpa45kk2.cloudfront.net/scheduler/scheduleMaster/476.m3u8
 
