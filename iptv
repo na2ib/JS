@@ -1,5 +1,17 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="General",FHD
+http://starhub.pro/live/farhat-3379/67897-913379/745269.ts
+
+#EXTINF:-1 group-title="General",DZN Hq
+https://fhd60fps-by-opensourecflix.exmax.workers.dev/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="General",DSports
+https://1nyaler.streamhostingcdn.top/stream/106/index.m3u8
+
+#EXTINF:-1 group-title="General",Somoy TV
+https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
+
 #EXTINF:-1 group-title="General",FOX
 http://84.17.50.102/fox/index.m3u8
 
