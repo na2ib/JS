@@ -3,20 +3,26 @@
 #EXTINF:-1 group-title="FIFA World Cup 2026",T Sports
 http://198.195.239.50:8095/tsports/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 group-title="FIFA World Cup 2026",T Sports (2)
+http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/130714.ts
+
+#EXTINF:-1 group-title="FIFA World Cup 2026",Somoy TV
+https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
+
 #EXTINF:-1 group-title="FIFA World Cup 2026",Bein 5
 http://starhub.pro/live/farhat-3379/67897-913379/744527.ts
+
+#EXTINF:-1 group-title="FIFA World Cup 2026",D Sports
+https://1nyaler.streamhostingcdn.top/stream/106/index.m3u8
+
+#EXTINF:-1 group-title="FIFA World Cup 2026",Bein Sports
+http://ua.online24.pm/play/1101/350B326FB34F4B8/video.m3u8
 
 #EXTINF:-1 group-title="FIFA World Cup 2026",FOX
 http://84.17.50.102/fox/index.m3u8
 
 #EXTINF:-1 group-title="Bangladeshi",Deepto TV
 https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
-
-#EXTINF:-1 group-title="FIFA World Cup 2026",T Sports (2)
-http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/130714.ts
-
-#EXTINF:-1 group-title="FIFA World Cup 2026",Somoy TV
-https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
 
 #EXTINF:-1 group-title="FIFA World Cup 2026",BEIN MAX 1
 https://stream.kurdtv.live/bein-max/index.m3u8
@@ -38,12 +44,6 @@ http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3640.ts
 
 #EXTINF:-1 group-title="Bangladeshi",G Series Drama
 https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1 group-title="FIFA World Cup 2026",D Sports
-https://1nyaler.streamhostingcdn.top/stream/106/index.m3u8
-
-#EXTINF:-1 group-title="FIFA World Cup 2026",Bein Sports
-http://ua.online24.pm/play/1101/350B326FB34F4B8/video.m3u8
 
 #EXTINF:-1 group-title="Bangladeshi",Boishakhi TV
 https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
