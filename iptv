@@ -45,6 +45,9 @@ http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2501.ts
 #EXTINF:-1 group-title="General",Bein 5
 http://starhub.pro/live/farhat-3379/67897-913379/744527.ts
 
+#EXTINF:-1 group-title="General",Hindi
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/NGCHD/default/NGCHD.m3u8
+
 #EXTINF:-1 group-title="Sports",Premier Sports 1
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/89089.ts
 
