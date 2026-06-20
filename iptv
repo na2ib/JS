@@ -12,6 +12,9 @@ https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
 #EXTINF:-1 group-title="FIFA World Cup 2026",FOX
 http://84.17.50.102/fox/index.m3u8
 
+#EXTINF:-1 group-title="FIFA World Cup 2026",DSports
+https://1nyaler.streamhostingcdn.top/stream/106/index.m3u8
+
 #EXTINF:-1 group-title="FIFA World Cup 2026",Bein Sports
 http://ua.online24.pm/play/1101/350B326FB34F4B8/video.m3u8
 
