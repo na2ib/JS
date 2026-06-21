@@ -1,43 +1,10 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="FIFA World Cup 2026",T Sports
-http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/130714.ts
-
-#EXTINF:-1 group-title="FIFA World Cup 2026",Yes HD
-http://ubuntu.moonplex.net:8080/TSports_HD/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="Radios",Another
-https://soccerball.st/s1.php
+#EXTINF:-1 group-title="Bangladeshi",Deepto TV
+https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
 
 #EXTINF:-1 group-title="FIFA World Cup 2026",Somoy TV
 https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
-
-#EXTINF:-1 group-title="FIFA World Cup 2026",FOX
-http://84.17.50.102/fox/index.m3u8
-
-#EXTINF:-1 group-title="FIFA World Cup 2026",DSports
-https://1nyaler.streamhostingcdn.top/stream/106/index.m3u8
-
-#EXTINF:-1 group-title="FIFA World Cup 2026",FHD
-http://starhub.pro/live/farhat-3379/67897-913379/745269.ts
-
-#EXTINF:-1 group-title="FIFA World Cup 2026",Hindi
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/ColorsHD.m3u8
-
-#EXTINF:-1 group-title="FIFA World Cup 2026",Bangla
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/NGCHD/default/NGCHD.m3u8
-
-#EXTINF:-1 group-title="FIFA World Cup 2026",Bein Sports
-http://ua.online24.pm/play/1101/350B326FB34F4B8/video.m3u8
-
-#EXTINF:-1 group-title="FIFA World Cup 2026",Bein 5
-http://starhub.pro/live/farhat-3379/67897-913379/744527.ts
-
-#EXTINF:-1 group-title="FIFA World Cup 2026",Bein 1
-http://starhub.pro/live/farhat-3379/67897-913379/744523.ts
-
-#EXTINF:-1 group-title="Bangladeshi",Deepto TV
-https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
 
 #EXTINF:-1 group-title="FIFA World Cup 2026",FIFA World Cup 2026 🇧🇷[coming]
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
@@ -47,6 +14,12 @@ https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 
 #EXTINF:-1 group-title="Bangladeshi",G Series Drama
 https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 group-title="FIFA World Cup 2026",FOX
+http://84.17.50.102/fox/index.m3u8
+
+#EXTINF:-1 group-title="Radios",Another
+https://soccerball.st/s1.php
 
 #EXTINF:-1 group-title="Bangladeshi",pcv
 https://padmaonline.duckdns.org:8088/pcv/index.m3u8
@@ -69,6 +42,12 @@ https://thelegitpro.in/pntv/rplusnews24x7/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Bangladeshi",Channel I (Alt)
 https://tvsen3.b-cdn.net/qUud8Nxs/index.m3u8
 
+#EXTINF:-1 group-title="FIFA World Cup 2026",T Sports
+http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/130714.ts
+
+#EXTINF:-1 group-title="FIFA World Cup 2026",Bein Sports
+http://ua.online24.pm/play/1101/350B326FB34F4B8/video.m3u8
+
 #EXTINF:-1 group-title="NEWS INTERNASIONAL",CNN (US)
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 
@@ -90,8 +69,14 @@ https://cdn.ottlive.co.in/kolkatatv/index.m3u8
 #EXTINF:-1 group-title="Kids",PBS Kids
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 
+#EXTINF:-1 group-title="FIFA World Cup 2026",Bein 5
+http://starhub.pro/live/farhat-3379/67897-913379/744527.ts
+
 #EXTINF:-1 group-title="FIFA World Cup 2026",Bein Sports Tekrar
 https://ua.online24.pm/play/1103/350B326FB34F4B8/video.m3u8
+
+#EXTINF:-1 group-title="FIFA World Cup 2026",Bein 1
+http://starhub.pro/live/farhat-3379/67897-913379/744523.ts
 
 #EXTINF:-1 group-title="Relagion Channel",EWTN TV
 https://cdn3.wowza.com/1/ZVBYYXFLLzE0c3NC/Qk1FMURC/hls/qrpsvkxl/720/chunklist.m3u8
@@ -309,9 +294,6 @@ http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/42308.ts
 #EXTINF:-1 group-title="NEWS INTERNASIONAL TV",France News 24
 https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_5000.m3u8
 
-#EXTINF:-1 group-title="General",CT SPORT HD 🇨🇿
-http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8
-
 #EXTINF:-1 group-title="Hindi Movies",B4U Kadak
 https://cdn-2.pishow.tv/live/227/master.m3u8
 
@@ -389,9 +371,6 @@ http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2531/index.m3u8
 
 #EXTINF:-1 group-title="General",Bahrain Sports 1
 https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
-
-#EXTINF:-1 group-title="General",TUDN
-http://45.171.64.30:2000/play/a08j/index.m3u8
 
 #EXTINF:-1 group-title="Kids & Cartoons",Smarty
 https://nomawnoijl.gpcdn.net/akash/smarty/playlist.m3u8
